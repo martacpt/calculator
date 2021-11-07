@@ -46,3 +46,14 @@ body {
 .buttons:active {
   background-color: rgb(243, 227, 205);
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
